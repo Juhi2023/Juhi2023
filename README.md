@@ -1,7 +1,7 @@
 ### Hi 👋, I am Juhi Sahu
 
 <!--https://rahuldkjain.github.io/gh-profile-readme-generator/-->
-**Juhi2023/Juhi2023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--**Juhi2023/Juhi2023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
